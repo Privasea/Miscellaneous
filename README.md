@@ -11,4 +11,7 @@
 </p>
 
 ## Introduction
-Privasea is a digital asset exchange and privacy computing platform for data value circulation. Privasea would privide three core fetures to garantee the privacy of data: data transimmion, data availability and data processing. Privasea would serve privacy-preserving applications in many fields, such as FinTech, Automotive, Healthcare, IoT Products, Social networks, Digital Rights Management, etc.
+
+Privasea is a cutting-edge privacy computing solution that leverages decentralized technology to ensure data security and protect user privacy. It utilizes AI models to process sensitive information in a secure and confidential manner. Privasea's unique architecture is easy to scale up with computation crowdsourcing, making it an ideal solution for organizations of all sizes looking to maintain the privacy of their data.
+
+This repository will serve as a toolbox to store useful sources such as figures or documents which would be used for other privasea repository.
